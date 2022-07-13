@@ -1,13 +1,15 @@
-Hi 👋 My name is Bialson
+Hi 👋 My name is Bialson 
 ========================
 
 Software Engineering student
 ----------------------------
 
-I've been learning code for 4 years. I started with C# and .NET 5. I create apps for technical projects and educational tools for schools like functions of two varbiables. I'm passionate of basketball. I've been training basketball for 7 years and currently I'am playing in my school team. In free time I like play games like Battlefield 4 or Civilization 6
+<img src='https://user-images.githubusercontent.com/78564805/178810387-de0264ea-b398-4e70-b405-1f6c14a2fd81.svg' width=200 style="text-allign: right"/>
+
+I create apps for technical projects and educational tools for learning math and physics. I'm passionate of basketball. I've been training basketball for 7 years and currently I'am playing in my school team. In free time I like play games like Battlefield 4 or Civilization 6
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on <b>LCS-Mechanik</b> -- Local Control System for Railway
+* 🚀  I'm currently working on <b>Functions.JS</b> -- math app based on React.js
 * 🧠  I'm learning Embedded C++
 
 
