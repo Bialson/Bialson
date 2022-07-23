@@ -1,10 +1,8 @@
-Hi 👋 My name is Bialson 
-========================
+<h1 align="center">Hi 👋 My name is Bialson </h1>
 
-Software Engineering student
-----------------------------
+<h3 align="center">Software Engineering student</h3>
 
-<img src='https://user-images.githubusercontent.com/78564805/178810387-de0264ea-b398-4e70-b405-1f6c14a2fd81.svg' width=200 style="text-allign: right"/>
+<p align="center"><img src='https://user-images.githubusercontent.com/78564805/178810387-de0264ea-b398-4e70-b405-1f6c14a2fd81.svg' width=200/></p>
 
 I create apps for technical projects and educational tools for learning math and physics. I'm passionate of basketball. I've been training basketball for 7 years and currently I'am playing in my school team. In free time I like play games like Battlefield 4 or Civilization 6
 
