@@ -8,7 +8,7 @@ I create apps for technical projects and educational tools for learning math and
 
 * 🌍  I'm based in Poland
 * 🚀  I'm currently working on <b>Functions.JS</b> -- math app based on React.js
-* 🧠  I'm learning Embedded C++
+* 🧠  In free time I'm learning Embedded C++
 
 
 Skills
