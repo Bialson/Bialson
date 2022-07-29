@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 My name is Bialson </h1>
+<h1 align="center">Hi 👋 I am Bialson </h1>
 
-<h3 align="center">Software Engineering student</h3>
+<h3 align="center">Technical school student</h3>
 
 <p align="center"><img src='https://user-images.githubusercontent.com/78564805/178810387-de0264ea-b398-4e70-b405-1f6c14a2fd81.svg' width=200/></p>
 
