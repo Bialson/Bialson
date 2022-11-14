@@ -5,7 +5,7 @@
 <p align="center"><img src='https://user-images.githubusercontent.com/78564805/178810387-de0264ea-b398-4e70-b405-1f6c14a2fd81.svg' width=200/></p>
 
 I create apps for students to help them during the learning process 🧑🏻‍🎓. Daily I work with React, often with C++ in electronics projects. 
-<br>I'm passionate about engineering, especially physics ⚡. In my free time, I usually play basketball 🏀 and video games 🎮.
+<br>I'm passionate about engineering, especially electricity ⚡. In my free time, I usually play basketball 🏀 and video games 🎮.
 
 <br>![Bialson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bialson&show_icons=true&theme=react)
 
