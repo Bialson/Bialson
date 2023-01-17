@@ -7,8 +7,6 @@
 I create apps for students to help them during the learning process 🧑🏻‍🎓. Daily I work with React, often with C++ in electronics projects. 
 <br>I'm passionate about engineering, especially electricity ⚡. In my free time, I usually play basketball 🏀 and video games 🎮.
 
-<br>![Bialson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bialson&show_icons=true&theme=react)
-
 Languages and tools
 ----------------------------
 <p align="center"> 
